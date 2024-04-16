@@ -2984,3 +2984,67 @@ BUILD FAILED
 [2024.04.16-00.01.46:712][383]LogContentValidation: Display: Validating /Game/Rouge/PlayerCharacter.PlayerCharacter_C /Game/Rouge/Maps/TestLevel.TestLevel:PersistentLevel.PlayerCharacter_C_UAID_902E169193BA97EC01_1839642951
 [2024.04.16-00.01.55:381][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
 [2024.04.16-00.02.09:624][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.16-00.06.22:061][588]LogViewport: Scene viewport resized to 1204x892, mode Windowed.
+[2024.04.16-00.06.22:079][589]LogViewport: Scene viewport resized to 1202x892, mode Windowed.
+[2024.04.16-00.06.22:135][590]LogViewport: Scene viewport resized to 1158x892, mode Windowed.
+[2024.04.16-00.06.22:167][591]LogViewport: Scene viewport resized to 1122x892, mode Windowed.
+[2024.04.16-00.06.22:202][592]LogViewport: Scene viewport resized to 1086x892, mode Windowed.
+[2024.04.16-00.06.22:239][593]LogViewport: Scene viewport resized to 1070x892, mode Windowed.
+[2024.04.16-00.06.22:272][594]LogViewport: Scene viewport resized to 1054x892, mode Windowed.
+[2024.04.16-00.06.22:309][595]LogViewport: Scene viewport resized to 1041x892, mode Windowed.
+[2024.04.16-00.06.22:348][596]LogViewport: Scene viewport resized to 1023x892, mode Windowed.
+[2024.04.16-00.06.22:385][597]LogViewport: Scene viewport resized to 1005x892, mode Windowed.
+[2024.04.16-00.06.22:424][598]LogViewport: Scene viewport resized to 988x892, mode Windowed.
+[2024.04.16-00.06.22:462][599]LogViewport: Scene viewport resized to 977x892, mode Windowed.
+[2024.04.16-00.06.22:501][600]LogViewport: Scene viewport resized to 963x892, mode Windowed.
+[2024.04.16-00.06.22:535][601]LogViewport: Scene viewport resized to 951x892, mode Windowed.
+[2024.04.16-00.06.22:571][602]LogViewport: Scene viewport resized to 934x892, mode Windowed.
+[2024.04.16-00.06.22:607][603]LogViewport: Scene viewport resized to 922x892, mode Windowed.
+[2024.04.16-00.06.22:642][604]LogViewport: Scene viewport resized to 905x892, mode Windowed.
+[2024.04.16-00.06.22:680][605]LogViewport: Scene viewport resized to 893x892, mode Windowed.
+[2024.04.16-00.06.22:720][606]LogViewport: Scene viewport resized to 883x892, mode Windowed.
+[2024.04.16-00.06.22:758][607]LogViewport: Scene viewport resized to 873x892, mode Windowed.
+[2024.04.16-00.06.22:795][608]LogViewport: Scene viewport resized to 864x892, mode Windowed.
+[2024.04.16-00.06.22:845][609]LogViewport: Scene viewport resized to 850x892, mode Windowed.
+[2024.04.16-00.06.22:885][610]LogViewport: Scene viewport resized to 839x892, mode Windowed.
+[2024.04.16-00.06.22:922][611]LogViewport: Scene viewport resized to 835x892, mode Windowed.
+[2024.04.16-00.06.23:056][618]LogViewport: Scene viewport resized to 839x892, mode Windowed.
+[2024.04.16-00.06.23:085][619]LogViewport: Scene viewport resized to 848x892, mode Windowed.
+[2024.04.16-00.06.23:128][620]LogViewport: Scene viewport resized to 882x892, mode Windowed.
+[2024.04.16-00.06.23:166][621]LogViewport: Scene viewport resized to 913x892, mode Windowed.
+[2024.04.16-00.06.23:207][622]LogViewport: Scene viewport resized to 932x892, mode Windowed.
+[2024.04.16-00.06.23:248][623]LogViewport: Scene viewport resized to 945x892, mode Windowed.
+[2024.04.16-00.06.23:291][624]LogViewport: Scene viewport resized to 957x892, mode Windowed.
+[2024.04.16-00.06.23:337][625]LogViewport: Scene viewport resized to 961x892, mode Windowed.
+[2024.04.16-00.06.23:380][626]LogViewport: Scene viewport resized to 964x892, mode Windowed.
+[2024.04.16-00.06.23:423][627]LogViewport: Scene viewport resized to 966x892, mode Windowed.
+[2024.04.16-00.06.23:487][630]LogViewport: Scene viewport resized to 970x892, mode Windowed.
+[2024.04.16-00.06.23:504][631]LogViewport: Scene viewport resized to 974x892, mode Windowed.
+[2024.04.16-00.06.23:557][632]LogViewport: Scene viewport resized to 989x892, mode Windowed.
+[2024.04.16-00.06.23:589][633]LogViewport: Scene viewport resized to 1007x892, mode Windowed.
+[2024.04.16-00.06.23:627][634]LogViewport: Scene viewport resized to 1032x892, mode Windowed.
+[2024.04.16-00.06.23:673][635]LogViewport: Scene viewport resized to 1058x892, mode Windowed.
+[2024.04.16-00.06.23:722][636]LogViewport: Scene viewport resized to 1085x892, mode Windowed.
+[2024.04.16-00.06.23:765][637]LogViewport: Scene viewport resized to 1113x892, mode Windowed.
+[2024.04.16-00.06.23:809][638]LogViewport: Scene viewport resized to 1129x892, mode Windowed.
+[2024.04.16-00.06.23:851][639]LogViewport: Scene viewport resized to 1140x892, mode Windowed.
+[2024.04.16-00.06.23:894][640]LogViewport: Scene viewport resized to 1148x892, mode Windowed.
+[2024.04.16-00.06.23:937][641]LogViewport: Scene viewport resized to 1156x892, mode Windowed.
+[2024.04.16-00.06.23:976][642]LogViewport: Scene viewport resized to 1158x892, mode Windowed.
+[2024.04.16-00.06.24:013][643]LogViewport: Scene viewport resized to 1159x892, mode Windowed.
+[2024.04.16-00.06.24:162][651]LogViewport: Scene viewport resized to 1155x892, mode Windowed.
+[2024.04.16-00.06.24:180][652]LogViewport: Scene viewport resized to 1151x892, mode Windowed.
+[2024.04.16-00.06.24:234][653]LogViewport: Scene viewport resized to 1142x892, mode Windowed.
+[2024.04.16-00.06.24:385][661]LogViewport: Scene viewport resized to 1143x892, mode Windowed.
+[2024.04.16-00.08.21:298][338]LogViewport: Scene viewport resized to 758x580, mode Windowed.
+[2024.04.16-00.08.21:664][338]LogViewport: Scene viewport resized to 1137x871, mode Windowed.
+[2024.04.16-00.08.22:600][356]LogViewport: Scene viewport resized to 1521x1318, mode Windowed.
+[2024.04.16-00.11.27:535][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.04.16-00.11.27:541][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Rouge/Maps/TestLevel/D/JZ/QME5CK5BGX32WA6QUAU0LR_Auto2
+[2024.04.16-00.11.27:541][563]LogSavePackage: Moving '../../../../../../Users/reanjorish/Documents/GitHub/UnrealProjects/Rouge/Saved/QME5CK5BGX32WA6QUAU0LR_Auto2C1F8357B434E2628F7496DBEBBBE1243.tmp' to '../../../../../../Users/reanjorish/Documents/GitHub/UnrealProjects/Rouge/Saved/Autosaves/Game/__ExternalActors__/Rouge/Maps/TestLevel/D/JZ/QME5CK5BGX32WA6QUAU0LR_Auto2.uasset'
+[2024.04.16-00.11.27:551][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Rouge/Maps/TestLevel/D/RK/12MNLAGD59BYQKWXEL1RI6_Auto2
+[2024.04.16-00.11.27:551][563]LogSavePackage: Moving '../../../../../../Users/reanjorish/Documents/GitHub/UnrealProjects/Rouge/Saved/12MNLAGD59BYQKWXEL1RI6_Auto2779DFAC94C8D5A5B15B404B6171A0D09.tmp' to '../../../../../../Users/reanjorish/Documents/GitHub/UnrealProjects/Rouge/Saved/Autosaves/Game/__ExternalActors__/Rouge/Maps/TestLevel/D/RK/12MNLAGD59BYQKWXEL1RI6_Auto2.uasset'
+[2024.04.16-00.11.27:560][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Rouge/Maps/TestLevel/9/7H/I4MWMTL23KBT88XZDAMJV0_Auto2
+[2024.04.16-00.11.27:561][563]LogSavePackage: Moving '../../../../../../Users/reanjorish/Documents/GitHub/UnrealProjects/Rouge/Saved/I4MWMTL23KBT88XZDAMJV0_Auto2ABE4E5AC488C1CD0108A4484CA9DFBCB.tmp' to '../../../../../../Users/reanjorish/Documents/GitHub/UnrealProjects/Rouge/Saved/Autosaves/Game/__ExternalActors__/Rouge/Maps/TestLevel/9/7H/I4MWMTL23KBT88XZDAMJV0_Auto2.uasset'
+[2024.04.16-00.11.27:561][563]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Rouge/Maps/TestLevel' took 0.047
+[2024.04.16-00.11.27:561][563]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047

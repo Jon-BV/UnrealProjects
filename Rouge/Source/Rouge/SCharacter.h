@@ -3,8 +3,13 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Camera/CameraComponent.h"
 #include "GameFramework/Character.h"
+#include "GameFramework/SpringArmComponent.h"
 #include "SCharacter.generated.h"
+
+class UCameraComponent;
+class USpringArmComponent;
 
 UCLASS()
 class ROUGE_API ASCharacter : public ACharacter
@@ -16,6 +21,9 @@ public:
 	ASCharacter();
 
 protected:
+	USpringArmComponent* SpringArmComp;
+	UCameraComponent* CameraComp;
+	
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 

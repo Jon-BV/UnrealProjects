@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\reanjorish\\documents\\github\\unrealprojects\\rouge\\source\\rouge\\rouge.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\reanjorish\\documents\\github\\unrealprojects\\rouge\\intermediate\\build\\win64\\x64\\rougeeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\reanjorish\\documents\\github\\unrealprojects\\rouge\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rouge\\definitions.rouge.h",
+            "c:\\users\\reanjorish\\documents\\github\\unrealprojects\\rouge\\source\\rouge\\rouge.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

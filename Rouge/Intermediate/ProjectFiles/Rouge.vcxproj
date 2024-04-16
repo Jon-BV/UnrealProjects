@@ -109,6 +109,7 @@
     <None Include="..\..\Rouge.uproject"/>
     <None Include="..\..\Source\Rouge.Target.cs"/>
     <None Include="..\..\Source\RougeEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
